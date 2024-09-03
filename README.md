@@ -1,4 +1,4 @@
-Here's a sample README for your ATM Simulator project on GitHub:
+Here's a sample README for ATM Simulator project on GitHub:
 
 ---
 
